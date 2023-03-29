@@ -1,0 +1,28 @@
+      Welcome to riddhi foods
+
+ Bill Number : 6940
+ Customer Name : NAMRATA VISHAL WANI
+ Phone Number : 9657976078
+===================================
+ Products		QTY	  Price
+===================================
+ Bath Soap		3	 Rs. 120
+ Face Wash		2	 Rs. 360
+ Hair Gel		2	 Rs. 120
+ Hair Spray		2	 Rs. 800
+ Food Oil		2	 Rs. 500
+ Wheat		2	 Rs. 100
+ Sugar		1	 Rs. 45
+ Tea		4	 Rs. 1280
+ Maaza		2	 Rs. 140
+ Limca		1	 Rs. 40
+ Slice		2	 Rs. 180
+ CocoCola		2	 Rs. 120
+ Pepsi		2	 Rs. 100
+-----------------------------------
+ Cosmetic Tax   			 Rs. 70.0
+ Grocery Tax    			 Rs. 192.5
+ Cold Drinks Tax			 Rs. 87.0
+-----------------------------------
+ Total Bill			 Rs. 4254.5
+-----------------------------------

@@ -1,0 +1,15 @@
+      Welcome to riddhi foods
+
+ Bill Number : 8743
+ Customer Name : ram
+ Phone Number : 8485871124
+===================================
+ Products		QTY	  Price
+===================================
+ Face Cream		3	 Rs. 360
+ Wheat		6	 Rs. 300
+-----------------------------------
+ Cosmetic Tax   			 Rs. 18.0
+ Grocery Tax    			 Rs. 30.0
+ Total Bill			 Rs. 708.0
+-----------------------------------

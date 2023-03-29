@@ -1,0 +1,20 @@
+      Welcome to riddhi foods
+
+ Bill Number : 2343
+ Customer Name : CHANDRAKANT WANI
+ Phone Number : 9657976078
+===================================
+ Products		QTY	  Price
+===================================
+ Bath Soap		2	 Rs. 80
+ Food Oil		2	 Rs. 500
+ Tea		2	 Rs. 640
+ Slice		2	 Rs. 180
+ Pepsi		2	 Rs. 100
+-----------------------------------
+ Cosmetic Tax   			 Rs. 4.0
+ Grocery Tax    			 Rs. 114.0
+ Cold Drinks Tax			 Rs. 42.0
+-----------------------------------
+ Total Bill			 Rs. 1660.0
+-----------------------------------

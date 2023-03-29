@@ -1,0 +1,18 @@
+      Welcome to riddhi foods
+
+ Bill Number : 6109
+ Customer Name : xyz
+ Phone Number : 123
+===================================
+ Products		QTY	  Price
+===================================
+ Bath Soap		1	 Rs. 40
+ Daal		5	 Rs. 500
+ Limca		7	 Rs. 280
+-----------------------------------
+ Cosmetic Tax   			 Rs. 2.0
+ Grocery Tax    			 Rs. 50.0
+ Cold Drinks Tax			 Rs. 42.0
+-----------------------------------
+ Total Bill			 Rs. 914.0
+-----------------------------------

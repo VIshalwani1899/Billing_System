@@ -1,0 +1,18 @@
+      Welcome to riddhi foods
+
+ Bill Number : 2508
+ Customer Name : Vishal
+ Phone Number : 1231
+===================================
+ Products		QTY	  Price
+===================================
+ Face Cream		2	 Rs. 240
+ Daal		2	 Rs. 200
+ CocoCola		2	 Rs. 120
+-----------------------------------
+ Cosmetic Tax   			 Rs. 12.0
+ Grocery Tax    			 Rs. 20.0
+ Cold Drinks Tax			 Rs. 18.0
+-----------------------------------
+ Total Bill			 Rs. 610.0
+-----------------------------------

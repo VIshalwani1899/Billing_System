@@ -1,0 +1,18 @@
+      Welcome to riddhi foods
+
+ Bill Number : 3491
+ Customer Name : bharat
+ Phone Number : 2131
+===================================
+ Products		QTY	  Price
+===================================
+ Bath Soap		1	 Rs. 40
+ Food Oil		1	 Rs. 250
+ Slice		1	 Rs. 90
+-----------------------------------
+ Cosmetic Tax   			 Rs. 2.0
+ Grocery Tax    			 Rs. 25.0
+ Cold Drinks Tax			 Rs. 13.5
+-----------------------------------
+ Total Bill			 Rs. 420.5
+-----------------------------------

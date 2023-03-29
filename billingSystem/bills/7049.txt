@@ -1,0 +1,13 @@
+      Welcome to riddhi foods
+
+ Bill Number : 7049
+ Customer Name : vishal
+ Phone Number : 123
+===================================
+ Products		QTY	  Price
+===================================
+ Bath Soap		1	 Rs. 40
+-----------------------------------
+ Cosmetic Tax   			 Rs. 2.0
+ Total Bill			 Rs. 42.0
+-----------------------------------

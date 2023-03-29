@@ -1,0 +1,24 @@
+      Welcome to riddhi foods
+
+ Bill Number : 6672
+ Customer Name : Kalyani 
+ Phone Number : 8767699543
+===================================
+ Products		QTY	  Price
+===================================
+ Bath Soap		3	 Rs. 120
+ Face Wash		3	 Rs. 540
+ Hair Gel		2	 Rs. 120
+ Rice		2	 Rs. 120
+ Food Oil		3	 Rs. 750
+ Daal		1	 Rs. 100
+ Maaza		2	 Rs. 140
+ Slice		2	 Rs. 180
+ CocoCola		1	 Rs. 60
+-----------------------------------
+ Cosmetic Tax   			 Rs. 39.0
+ Grocery Tax    			 Rs. 97.0
+ Cold Drinks Tax			 Rs. 57.0
+-----------------------------------
+ Total Bill			 Rs. 2323.0
+-----------------------------------

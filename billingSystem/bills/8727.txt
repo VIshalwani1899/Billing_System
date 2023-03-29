@@ -1,0 +1,18 @@
+      Welcome to riddhi foods
+
+ Bill Number : 8727
+ Customer Name : mayuresh
+ Phone Number : 9657976078
+===================================
+ Products		QTY	  Price
+===================================
+ Face Wash		2	 Rs. 360
+ Wheat		2	 Rs. 100
+ Slice		1	 Rs. 90
+-----------------------------------
+ Cosmetic Tax       Rs. 18.0
+ Grocery Tax    			 Rs. 10.0
+ Cold Drinks Tax			 Rs. 13.5
+-----------------------------------
+ Total Bill			 Rs. 591.5
+-----------------------------------

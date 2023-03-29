@@ -1,0 +1,13 @@
+      Welcome to riddhi foods
+
+ Bill Number : 3949
+ Customer Name : vssd
+ Phone Number : 2112
+===================================
+ Products		QTY	  Price
+===================================
+ Face Cream		1	 Rs. 120
+-----------------------------------
+ Cosmetic Tax   			 Rs. 6.0
+ Total Bill			 Rs. 126.0
+-----------------------------------

@@ -1,0 +1,23 @@
+      Welcome to riddhi foods
+
+ Bill Number : 4583
+ Customer Name : PRANALI VAHINI
+ Phone Number : 8883838383
+===================================
+ Products		QTY	  Price
+===================================
+ Bath Soap		2	 Rs. 80
+ Face Cream		2	 Rs. 240
+ Face Wash		2	 Rs. 360
+ Daal		2	 Rs. 200
+ Sugar		2	 Rs. 90
+ Maaza		2	 Rs. 140
+ Slice		2	 Rs. 180
+ Pepsi		2	 Rs. 100
+-----------------------------------
+ Cosmetic Tax   			 Rs. 34.0
+ Grocery Tax    			 Rs. 29.0
+ Cold Drinks Tax			 Rs. 63.0
+-----------------------------------
+ Total Bill			 Rs. 1516.0
+-----------------------------------
